@@ -1,6 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-
+[![Build Status](https://dev.azure.com/Alpharos/Pipecontrole/_apis/build/status/Nadirouss.ContosoAir?branchName=master)](https://dev.azure.com/Alpharos/Pipecontrole/_build/latest?definitionId=8&branchName=master)
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
